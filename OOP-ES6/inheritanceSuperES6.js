@@ -55,3 +55,4 @@ class Motorcycle extends Vehicle {
     this.numWheels = 2;
   }
 }
+
