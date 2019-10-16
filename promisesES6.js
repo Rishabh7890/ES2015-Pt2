@@ -62,3 +62,5 @@ Promise.all([titanicPromise, shrekPromise, takenPromise]).then(movies => {
     console.log(movie.Year);
   });
 });
+
+
